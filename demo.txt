@@ -1,0 +1,10 @@
+This is a B56WDTamil main boot camp session
+This is a demo session
+To save a file in vscode press crtl+s
+What is the role of developer?
+Jira Tickets
+Version control System
+Documentation
+
+
+What is version control system?
